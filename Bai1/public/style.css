@@ -1,0 +1,25 @@
+/* body{
+    background-color: yellow;
+} */
+#wapper{
+    width: 600px;
+    margin: auto;
+}
+#left{
+    width: 30%;
+    float :left;
+    background-color: antiquewhite;
+}
+#right{
+    width: 70%;
+    float: right;
+    background-color: aqua;
+}
+#sayHi{
+    text-align: right;
+}
+#listMessage{
+    height: 400px;
+    background-color: azure;
+
+}
